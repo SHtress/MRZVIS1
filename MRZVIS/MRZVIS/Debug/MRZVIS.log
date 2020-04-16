@@ -1,0 +1,11 @@
+﻿  MRZVIS.cpp
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(32,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(51,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(106,47): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(119,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(134,31): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(155,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(174,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(182,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(192,23): warning C4018:  <: несоответствие типов со знаком и без знака
+  MRZVIS.vcxproj -> C:\Users\apice\source\repos\MRZVIS\Debug\MRZVIS.exe

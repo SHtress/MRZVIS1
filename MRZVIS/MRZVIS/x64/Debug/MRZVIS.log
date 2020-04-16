@@ -1,0 +1,8 @@
+﻿  MRZVIS.cpp
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(106,47): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(120,26): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(125,49): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(126,36): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(134,27): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\apice\source\repos\MRZVIS\MRZVIS\MRZVIS.cpp(185,12): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+  MRZVIS.vcxproj -> C:\Users\apice\source\repos\MRZVIS\x64\Debug\MRZVIS.exe
