@@ -121,9 +121,9 @@ vector<bool> Multiply(vector<bool> A, vector<bool> B) {
 	{	
 		vector<bool> res;
 		vector<bool> sdwig;
-	
-		res = HalfMultiply(moveRight(A, A.size() - i-1), B[i]);
 		sdwig = moveRight(A, A.size() - i);
+		res = HalfMultiply(moveRight(A, A.size() - i-1), B[i]);
+		//sdwig = moveRight(A, A.size() - i);
 		table[row][column] = printVector(sdwig)+" SDWIG";
 		while (table[row][column].length() < 16) table[row][column]+= " ";
 		row++;
@@ -181,7 +181,7 @@ int main()
 
 	for (size_t i = 0; i < length; i++)
 	{
-		results.emplace_back(Multiply(listA[i], listB[i]));	
+		results.emplace_back(Multiply(inverse(listA[i]), listB[i]));	
 		row = i+1;
 		column = 0;
 		cout << endl;
